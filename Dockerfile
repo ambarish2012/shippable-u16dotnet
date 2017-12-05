@@ -1,4 +1,4 @@
-FROM drydock/u16:v5.6.1
+FROM drydock/u16:v5.10.4
 
 ADD . /u16dotnet
 
